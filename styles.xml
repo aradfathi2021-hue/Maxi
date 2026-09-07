@@ -1,0 +1,8 @@
+<resources>
+<style name="Theme.MaxiVPN" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:navigationBarColor">#0B0D12</item>
+    <item name="android:statusBarColor">#0B0D12</item>
+    <item name="colorPrimary">#6C63FF</item>
+</style>
+</resources>
